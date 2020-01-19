@@ -1,0 +1,9 @@
+{
+  "id": "3b91df66-74a5-49bb-91cb-fe0024888c02",
+  "name": "seoul_entities",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

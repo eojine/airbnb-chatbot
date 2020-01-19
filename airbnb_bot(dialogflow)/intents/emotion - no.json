@@ -1,0 +1,36 @@
+{
+  "id": "92f6276c-48d0-4bd4-945f-a6b5c929175b",
+  "parentId": "c41b6439-7dfb-4be4-b098-617c1e88e363",
+  "rootParentId": "c41b6439-7dfb-4be4-b098-617c1e88e363",
+  "name": "emotion - no",
+  "auto": true,
+  "contexts": [
+    "emotion-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "emotion.emotion-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "첫화면으로 돌아갑니다.\n기분은 어떠세요??"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

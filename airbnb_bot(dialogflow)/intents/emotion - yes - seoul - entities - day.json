@@ -1,0 +1,94 @@
+{
+  "id": "bf229253-9014-441c-8b7f-33e080846f2b",
+  "parentId": "9c957bb9-58be-4637-9407-54863ea0fc25",
+  "rootParentId": "c41b6439-7dfb-4be4-b098-617c1e88e363",
+  "name": "emotion - yes - seoul - entities - day",
+  "auto": true,
+  "contexts": [
+    "emotion-yes-seoul-entities-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "emotion.emotion-yes.emotion-yes-custom.emotion-yes-seoul-custom.emotion-yes-seoul-entities-custom",
+      "affectedContexts": [
+        {
+          "name": "emotion-yes-seoul-entities-day-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "emotion-yes-seoul-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ee49fef5-fcdc-4c6d-9e51-4e953c67bcb1",
+          "required": true,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "prompts": [
+            {
+              "lang": "ko",
+              "value": "정확한 날짜를 입력해주세요"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "line",
+          "lang": "ko",
+          "condition": "",
+          "speech": "https://a0.muscache.com/im/pictures/ae64c2fc-eb36-4dea-bac1-0b6de49a4027.jpg?aki_policy\u003dxx_large"
+        },
+        {
+          "type": 0,
+          "platform": "line",
+          "lang": "ko",
+          "condition": "",
+          "speech": "https://a0.muscache.com/im/pictures/ae64c2fc-eb36-4dea-bac1-0b6de49a4027.jpg?aki_policy\u003dxx_large"
+        },
+        {
+          "type": 0,
+          "platform": "line",
+          "lang": "ko",
+          "condition": "",
+          "speech": "https://a0.muscache.com/im/pictures/ae64c2fc-eb36-4dea-bac1-0b6de49a4027.jpg?aki_policy\u003dxx_large"
+        },
+        {
+          "type": 0,
+          "platform": "line",
+          "lang": "ko",
+          "condition": "",
+          "speech": "옵션"
+        },
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

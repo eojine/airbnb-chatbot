@@ -1,0 +1,152 @@
+[
+  {
+    "id": "14a12e52-48b8-4336-bd8c-08dc020e4bcf",
+    "data": [
+      {
+        "text": "오늘",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " 뭐 하지?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bfc47291-afa1-43aa-a845-7fb2690b583d",
+    "data": [
+      {
+        "text": "여행가고싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "942beaec-0883-4d92-b62b-055bd589f616",
+    "data": [
+      {
+        "text": "하이",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0ab4499-f943-45a5-8684-4519b66c0e3d",
+    "data": [
+      {
+        "text": "안녕하세요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12eb1970-5594-4149-a1b6-a79ca302a1c7",
+    "data": [
+      {
+        "text": "뭐해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7b9d216-cb53-448c-897e-b1e65db36f01",
+    "data": [
+      {
+        "text": "뭐야",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07a00a83-f711-4034-9cae-bb267b01f4dd",
+    "data": [
+      {
+        "text": "안녕",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ce2fef3-8ec4-4851-85f2-792899e73d37",
+    "data": [
+      {
+        "text": "심심해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cdb85cab-23e5-40fb-8aec-75ed0173fb98",
+    "data": [
+      {
+        "text": "행복해요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3909b887-6eb7-4be4-9b79-a4ed5e1d28b8",
+    "data": [
+      {
+        "text": "즐거워요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f38a983b-19ba-4aa9-881f-abb778bce80f",
+    "data": [
+      {
+        "text": "나빠요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89de6394-8a9b-4653-85e2-066438aaa698",
+    "data": [
+      {
+        "text": "좋아요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "75a35a16-a9bb-42ef-97f7-63ddc79d2ba1",
+    "data": [
+      {
+        "text": "10000",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      },
+      {
+        "text": "원",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

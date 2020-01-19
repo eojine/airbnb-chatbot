@@ -1,0 +1,49 @@
+{
+  "id": "6d496120-40a6-47ff-923e-434516df44a3",
+  "parentId": "bc7c45dc-6bd5-44e6-9020-ab5e6a5107c2",
+  "rootParentId": "c41b6439-7dfb-4be4-b098-617c1e88e363",
+  "name": "emotion - yes - seoul - entities - day - yes - pricedetail",
+  "auto": true,
+  "contexts": [
+    "emotion-yes-seoul-entities-day-yes-price-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "emotion.emotion-yes.emotion-yes-custom.emotion-yes-seoul-custom.emotion-yes-seoul-entities-custom.emotion-yes-seoul-entities-day-yes.emotion-yes-seoul-entities-day-yes-custom.emotion-yes-seoul-entities-day-yes-price-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "559c3a7e-9651-4ed2-a2c1-f5962196c565",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "number-integer",
+          "value": "$number-integer",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "123"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

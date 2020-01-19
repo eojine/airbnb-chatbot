@@ -1,0 +1,47 @@
+{
+  "id": "5e30e3f7-0e98-4651-b344-d2cf75b72a23",
+  "parentId": "c41b6439-7dfb-4be4-b098-617c1e88e363",
+  "rootParentId": "c41b6439-7dfb-4be4-b098-617c1e88e363",
+  "name": "emotion - yes",
+  "auto": true,
+  "contexts": [
+    "emotion-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "emotion.emotion-yes",
+      "affectedContexts": [
+        {
+          "name": "emotion-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "line",
+          "lang": "ko",
+          "condition": "",
+          "title": "어느곳",
+          "replies": [
+            "서울",
+            "부산"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

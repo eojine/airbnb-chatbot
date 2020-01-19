@@ -1,0 +1,142 @@
+[
+  {
+    "id": "774e33f5-a3e8-4573-9915-5f8d14b60440",
+    "data": [
+      {
+        "text": "종로구",
+        "alias": "seoul_entities",
+        "meta": "@seoul_entities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae1f85bf-eb0b-4740-a8d6-5caf0f98179b",
+    "data": [
+      {
+        "text": "용산구",
+        "alias": "seoul_entities",
+        "meta": "@seoul_entities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae92493d-6638-4d4a-a513-f57f956ed2e2",
+    "data": [
+      {
+        "text": "송파구",
+        "alias": "seoul_entities",
+        "meta": "@seoul_entities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58aeea4c-0527-4761-a0fb-ded77f632444",
+    "data": [
+      {
+        "text": "서초구",
+        "alias": "seoul_entities",
+        "meta": "@seoul_entities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "525e96b6-45fe-4776-8e14-0f75233a0553",
+    "data": [
+      {
+        "text": "마포구",
+        "alias": "seoul_entities",
+        "meta": "@seoul_entities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89ef6284-35bb-4e0e-aa6e-bd1fe0fbf07e",
+    "data": [
+      {
+        "text": "관악구",
+        "alias": "seoul_entities",
+        "meta": "@seoul_entities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "317f9528-fafc-4330-bdd9-56b0c0730568",
+    "data": [
+      {
+        "text": "강서구",
+        "alias": "seoul_entities",
+        "meta": "@seoul_entities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ede20b1-0af6-4211-90a9-44ab3b6586ab",
+    "data": [
+      {
+        "text": "강북구",
+        "alias": "seoul_entities",
+        "meta": "@seoul_entities",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cddf6503-9da9-40f6-b282-488047684d7d",
+    "data": [
+      {
+        "text": "강동구",
+        "alias": "seoul_entities",
+        "meta": "@seoul_entities",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8df681da-7cb0-453f-9fb7-78084c2e735a",
+    "data": [
+      {
+        "text": "강남구",
+        "alias": "seoul_entities",
+        "meta": "@seoul_entities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

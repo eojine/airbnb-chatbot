@@ -1,0 +1,64 @@
+{
+  "id": "9c957bb9-58be-4637-9407-54863ea0fc25",
+  "parentId": "2cfd9f01-10f3-4ed4-b227-2523c10495e3",
+  "rootParentId": "c41b6439-7dfb-4be4-b098-617c1e88e363",
+  "name": "emotion - yes - seoul - entities",
+  "auto": true,
+  "contexts": [
+    "emotion-yes-seoul-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "emotion.emotion-yes.emotion-yes-custom.emotion-yes-seoul-custom",
+      "affectedContexts": [
+        {
+          "name": "emotion-yes-seoul-entities-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8d9e2325-c671-4522-8555-626fd3c14f9f",
+          "required": true,
+          "dataType": "@seoul_entities",
+          "name": "seoul_entities",
+          "value": "$seoul_entities",
+          "prompts": [
+            {
+              "lang": "ko",
+              "value": "정확한 지역을 입력하세요"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": [
+            "언제요?",
+            "언제 가실래요?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": "9f0f4f50-8d7d-4589-bfe9-07e5db685802",
+  "parentId": "24adf11f-fd53-45aa-90c2-75d17e6bad7b",
+  "rootParentId": "c41b6439-7dfb-4be4-b098-617c1e88e363",
+  "name": "emotion - yes - seoul - entities - day - yes - persondetail",
+  "auto": true,
+  "contexts": [
+    "emotion-yes-seoul-followup",
+    "emotion-yes-seoul-entities-day-yes-person-followup",
+    "emotion-yes-seoul-entities-day-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "emotion.emotion-yes.emotion-yes-custom.emotion-yes-seoul-custom.emotion-yes-seoul-entities-custom.emotion-yes-seoul-entities-day-yes.emotion-yes-seoul-entities-day-yes-custom.emotion-yes-seoul-entities-day-yes-person-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "82e43547-4f9e-4f84-9633-000cb272a171",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

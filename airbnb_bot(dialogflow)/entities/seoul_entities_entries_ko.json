@@ -1,0 +1,65 @@
+[
+  {
+    "value": "gangnam",
+    "synonyms": [
+      "강남구",
+      "강남"
+    ]
+  },
+  {
+    "value": "gangdong",
+    "synonyms": [
+      "강동구",
+      "강동"
+    ]
+  },
+  {
+    "value": "gangbuk",
+    "synonyms": [
+      "강북",
+      "강북구"
+    ]
+  },
+  {
+    "value": "gangseo",
+    "synonyms": [
+      "강서구"
+    ]
+  },
+  {
+    "value": "gwanak",
+    "synonyms": [
+      "관악구"
+    ]
+  },
+  {
+    "value": "mapo",
+    "synonyms": [
+      "마포구"
+    ]
+  },
+  {
+    "value": "seocho",
+    "synonyms": [
+      "서초구"
+    ]
+  },
+  {
+    "value": "songpa",
+    "synonyms": [
+      "송파구"
+    ]
+  },
+  {
+    "value": "yongsan",
+    "synonyms": [
+      "용산구"
+    ]
+  },
+  {
+    "value": "jong-ro",
+    "synonyms": [
+      "종로구"
+    ]
+  }
+]

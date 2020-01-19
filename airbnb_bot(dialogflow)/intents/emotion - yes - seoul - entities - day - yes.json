@@ -1,0 +1,59 @@
+{
+  "id": "17dfa27b-6464-4bc9-ba26-5667546661d1",
+  "parentId": "bf229253-9014-441c-8b7f-33e080846f2b",
+  "rootParentId": "c41b6439-7dfb-4be4-b098-617c1e88e363",
+  "name": "emotion - yes - seoul - entities - day - yes",
+  "auto": true,
+  "contexts": [
+    "emotion-yes-seoul-entities-day-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "emotion.emotion-yes.emotion-yes-custom.emotion-yes-seoul-custom.emotion-yes-seoul-entities-custom.emotion-yes-seoul-entities-day-yes",
+      "affectedContexts": [
+        {
+          "name": "emotion-yes-seoul-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "emotion-yes-seoul-entities-day-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "emotion-yes-seoul-entities-day-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "line",
+          "lang": "ko",
+          "condition": "",
+          "title": "옵션",
+          "replies": [
+            "가격",
+            "별점",
+            "사람수",
+            "즉시예약"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

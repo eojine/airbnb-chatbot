@@ -1,0 +1,54 @@
+{
+  "id": "bc7c45dc-6bd5-44e6-9020-ab5e6a5107c2",
+  "parentId": "17dfa27b-6464-4bc9-ba26-5667546661d1",
+  "rootParentId": "c41b6439-7dfb-4be4-b098-617c1e88e363",
+  "name": "emotion - yes - seoul - entities - day - yes - price",
+  "auto": true,
+  "contexts": [
+    "emotion-yes-seoul-followup",
+    "emotion-yes-seoul-entities-day-yes-followup",
+    "emotion-yes-seoul-entities-day-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "emotion.emotion-yes.emotion-yes-custom.emotion-yes-seoul-custom.emotion-yes-seoul-entities-custom.emotion-yes-seoul-entities-day-yes.emotion-yes-seoul-entities-day-yes-custom",
+      "affectedContexts": [
+        {
+          "name": "emotion-yes-seoul-entities-day-yes-price-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "emotion-yes-seoul-entities-day-followup",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "emotion-yes-seoul-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "최대값을 설정해주세요"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

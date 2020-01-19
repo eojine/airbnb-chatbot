@@ -1,0 +1,122 @@
+[
+  {
+    "id": "82180ea0-4d4a-4225-86cf-901dc21b0433",
+    "data": [
+      {
+        "text": "그럼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b4e04d2f-fdb6-4c86-b7d8-963a28c7c899",
+    "data": [
+      {
+        "text": "확인",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d0005104-2cce-462d-b9e1-dfcdbe2d2af3",
+    "data": [
+      {
+        "text": "좋아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f0e766f6-2cbb-4618-8294-cb69c4929581",
+    "data": [
+      {
+        "text": "물론",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "319ee90f-b921-437b-9597-932516a174fa",
+    "data": [
+      {
+        "text": "해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "740d7e58-11da-457a-995b-b3d9b7b20834",
+    "data": [
+      {
+        "text": "상관없어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8ce5671-0b12-44eb-8cbe-9f2d6d682bfc",
+    "data": [
+      {
+        "text": "바로 그거야",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "7d16316d-cad0-4388-82be-b5aad5cc67ac",
+    "data": [
+      {
+        "text": "맞아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "6e19ef85-4ea6-4dd9-9b8c-b72cf4ce8b5e",
+    "data": [
+      {
+        "text": "동의",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea05ce07-77dc-43d4-8ba3-5526de3e4f1f",
+    "data": [
+      {
+        "text": "그래",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "id": "2cfd9f01-10f3-4ed4-b227-2523c10495e3",
+  "parentId": "5e30e3f7-0e98-4651-b344-d2cf75b72a23",
+  "rootParentId": "c41b6439-7dfb-4be4-b098-617c1e88e363",
+  "name": "emotion - yes - seoul",
+  "auto": true,
+  "contexts": [
+    "emotion-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "emotion.emotion-yes.emotion-yes-custom",
+      "affectedContexts": [
+        {
+          "name": "emotion-yes-seoul-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "line",
+          "lang": "ko",
+          "condition": "",
+          "title": "서울 어디",
+          "replies": [
+            "강남구",
+            "강동구",
+            "강북구",
+            "강서구",
+            "관악구",
+            "마포구",
+            "서초구",
+            "송파구",
+            "용산구",
+            "종로구"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
